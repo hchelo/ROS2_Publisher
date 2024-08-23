@@ -22,9 +22,9 @@ Implemente un nodo suscriptor que solo reciba numeros multiplos de 7
     },
 # 5. Construir y ejecutar
 
-  colcon build 
+  	colcon build 
 	source install/setup.bash
 	
 	ros2 run publicador talkercito
-  ros2 run publicador listenercito
+  	ros2 run publicador listenercito
   
