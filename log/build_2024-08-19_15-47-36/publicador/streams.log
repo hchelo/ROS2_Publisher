@@ -1,0 +1,25 @@
+[0.770s] Invoking command in '/home/kubu/pub_ws/src/publicador': PYTHONPATH=/home/kubu/pub_ws/build/publicador/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publicador build --build-base /home/kubu/pub_ws/build/publicador/build install --record /home/kubu/pub_ws/build/publicador/install.log --single-version-externally-managed install_data
+[1.060s] running egg_info
+[1.060s] writing ../../build/publicador/publicador.egg-info/PKG-INFO
+[1.061s] writing dependency_links to ../../build/publicador/publicador.egg-info/dependency_links.txt
+[1.061s] writing entry points to ../../build/publicador/publicador.egg-info/entry_points.txt
+[1.061s] writing requirements to ../../build/publicador/publicador.egg-info/requires.txt
+[1.061s] writing top-level names to ../../build/publicador/publicador.egg-info/top_level.txt
+[1.063s] reading manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+[1.064s] writing manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+[1.064s] running build
+[1.064s] running build_py
+[1.065s] copying publicador/subscriber_member_function.py -> /home/kubu/pub_ws/build/publicador/build/lib/publicador
+[1.065s] running install
+[1.065s] running install_lib
+[1.066s] copying /home/kubu/pub_ws/build/publicador/build/lib/publicador/subscriber_member_function.py -> /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador
+[1.067s] byte-compiling /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[1.067s] running install_data
+[1.068s] running install_egg_info
+[1.069s] removing '/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador-0.0.0-py3.10.egg-info' (and everything under it)
+[1.070s] Copying ../../build/publicador/publicador.egg-info to /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador-0.0.0-py3.10.egg-info
+[1.071s] running install_scripts
+[1.092s] Installing listenercito script to /home/kubu/pub_ws/install/publicador/lib/publicador
+[1.092s] Installing talkercito script to /home/kubu/pub_ws/install/publicador/lib/publicador
+[1.092s] writing list of installed files to '/home/kubu/pub_ws/build/publicador/install.log'
+[1.117s] Invoked command in '/home/kubu/pub_ws/src/publicador' returned '0': PYTHONPATH=/home/kubu/pub_ws/build/publicador/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publicador build --build-base /home/kubu/pub_ws/build/publicador/build install --record /home/kubu/pub_ws/build/publicador/install.log --single-version-externally-managed install_data

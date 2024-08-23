@@ -1,0 +1,4 @@
+[console_scripts]
+listenercito = publicador.subscriber_member_function:main
+talkercito = publicador.publisher_member_function:main
+

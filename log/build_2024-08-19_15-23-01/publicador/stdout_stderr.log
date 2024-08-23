@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/publicador/publicador.egg-info/PKG-INFO
+writing dependency_links to ../../build/publicador/publicador.egg-info/dependency_links.txt
+writing entry points to ../../build/publicador/publicador.egg-info/entry_points.txt
+writing requirements to ../../build/publicador/publicador.egg-info/requires.txt
+writing top-level names to ../../build/publicador/publicador.egg-info/top_level.txt
+reading manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+writing manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+running build
+running build_py
+copying publicador/subscriber_member_function.py -> /home/kubu/pub_ws/build/publicador/build/lib/publicador
+running install
+running install_lib
+copying /home/kubu/pub_ws/build/publicador/build/lib/publicador/subscriber_member_function.py -> /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador
+byte-compiling /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/publicador/publicador.egg-info to /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/kubu/pub_ws/install/publicador/lib/publicador
+Installing talker script to /home/kubu/pub_ws/install/publicador/lib/publicador
+writing list of installed files to '/home/kubu/pub_ws/build/publicador/install.log'

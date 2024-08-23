@@ -1,0 +1,37 @@
+[1.097s] Invoking command in '/home/kubu/pub_ws/src/publicador': PYTHONPATH=/home/kubu/pub_ws/build/publicador/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publicador build --build-base /home/kubu/pub_ws/build/publicador/build install --record /home/kubu/pub_ws/build/publicador/install.log --single-version-externally-managed install_data
+[1.389s] running egg_info
+[1.389s] creating ../../build/publicador/publicador.egg-info
+[1.389s] writing ../../build/publicador/publicador.egg-info/PKG-INFO
+[1.390s] writing dependency_links to ../../build/publicador/publicador.egg-info/dependency_links.txt
+[1.390s] writing entry points to ../../build/publicador/publicador.egg-info/entry_points.txt
+[1.390s] writing requirements to ../../build/publicador/publicador.egg-info/requires.txt
+[1.390s] writing top-level names to ../../build/publicador/publicador.egg-info/top_level.txt
+[1.390s] writing manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+[1.392s] reading manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+[1.392s] writing manifest file '../../build/publicador/publicador.egg-info/SOURCES.txt'
+[1.393s] running build
+[1.393s] running build_py
+[1.393s] creating /home/kubu/pub_ws/build/publicador/build
+[1.393s] creating /home/kubu/pub_ws/build/publicador/build/lib
+[1.393s] creating /home/kubu/pub_ws/build/publicador/build/lib/publicador
+[1.393s] copying publicador/__init__.py -> /home/kubu/pub_ws/build/publicador/build/lib/publicador
+[1.393s] copying publicador/publisher_member_function.py -> /home/kubu/pub_ws/build/publicador/build/lib/publicador
+[1.393s] running install
+[1.394s] running install_lib
+[1.394s] creating /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador
+[1.394s] copying /home/kubu/pub_ws/build/publicador/build/lib/publicador/__init__.py -> /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador
+[1.395s] copying /home/kubu/pub_ws/build/publicador/build/lib/publicador/publisher_member_function.py -> /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador
+[1.395s] byte-compiling /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador/__init__.py to __init__.cpython-310.pyc
+[1.395s] byte-compiling /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.396s] running install_data
+[1.396s] creating /home/kubu/pub_ws/install/publicador/share/ament_index
+[1.396s] creating /home/kubu/pub_ws/install/publicador/share/ament_index/resource_index
+[1.396s] creating /home/kubu/pub_ws/install/publicador/share/ament_index/resource_index/packages
+[1.396s] copying resource/publicador -> /home/kubu/pub_ws/install/publicador/share/ament_index/resource_index/packages
+[1.396s] copying package.xml -> /home/kubu/pub_ws/install/publicador/share/publicador
+[1.396s] running install_egg_info
+[1.398s] Copying ../../build/publicador/publicador.egg-info to /home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages/publicador-0.0.0-py3.10.egg-info
+[1.482s] running install_scripts
+[1.530s] Installing talker script to /home/kubu/pub_ws/install/publicador/lib/publicador
+[1.531s] writing list of installed files to '/home/kubu/pub_ws/build/publicador/install.log'
+[1.560s] Invoked command in '/home/kubu/pub_ws/src/publicador' returned '0': PYTHONPATH=/home/kubu/pub_ws/build/publicador/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/pub_ws/install/publicador/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publicador build --build-base /home/kubu/pub_ws/build/publicador/build install --record /home/kubu/pub_ws/build/publicador/install.log --single-version-externally-managed install_data
